@@ -2,7 +2,7 @@
 
 **Rimo Desktop の公式配布リポジトリです。** アプリのバイナリは [Releases](https://github.com/rimo/desktop/releases) からのみ取得してください。
 
-Rimo Desktop は、会議ボットを使わずにローカルで音声・画面を録音し、[Rimo Voice](https://rimo.app) にアップロードして文字起こしする macOS 向けデスクトップアプリです。会議中のリアルタイム文字起こしを手元に表示します。
+Rimo Desktop は、会議ボットを使わずにローカルで音声・画面を録音し、[Rimo](https://rimo.app) にアップロードして文字起こしする macOS 向けデスクトップアプリです。会議中のリアルタイム文字起こしを手元に表示します。
 
 ## インストール
 
@@ -20,7 +20,7 @@ Rimo Desktop は、会議ボットを使わずにローカルで音声・画面�
 
 **This is the official distribution repository for Rimo Desktop.** Download the app binaries only from [Releases](https://github.com/rimo/desktop/releases).
 
-Rimo Desktop is a macOS app that records audio and screen locally — no meeting bot required — and uploads to [Rimo Voice](https://rimo.app) for transcription, with real-time transcription shown during meetings.
+Rimo Desktop is a macOS app that records audio and screen locally — no meeting bot required — and uploads to [Rimo](https://rimo.app) for transcription, with real-time transcription shown during meetings.
 
 ## Install
 
